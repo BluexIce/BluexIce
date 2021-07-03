@@ -7,7 +7,6 @@
       python and working on some projects including python and kivy(md)
 
 - 💞️ I’m looking to collaborate on ...
-<br>
 - 📫 How to reach me <br>
       Sololearn: BluexIce  https://www.sololearn.com/profile/13115089  <br>
       here on github
