@@ -7,9 +7,9 @@
       python and working on some projects including python and kivy(md)
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <br>
-      Sololearn: BluexIce  https://www.sololearn.com/profile/13115089  <br>
-      here on github
+- 📫 How to reach me: <br>
+        - Sololearn: BluexIce  https://www.sololearn.com/profile/13115089  <br>
+        - here on github
       
 <!---
 BluexIce/BluexIce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
